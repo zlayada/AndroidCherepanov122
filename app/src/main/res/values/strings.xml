@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Просмотр фото</string>
+    <string name="next">Вперед</string>
+    <string name="back">Назад</string>
+    <string name="address">http:myfile.org/</string>
+    <string name="textView">ABC123/</string>
+</resources>
